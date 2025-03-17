@@ -12,11 +12,11 @@ hero_image_ratio: is-1by1
 Elève ingénieur en Energie et Numérique
 
 
-Disponible XX mois à partir de Date
+Disponible 2 mois à partir de Juillet
 
 [owenleblanc6[at]gmail.com](mailto:owenleblanc6@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
+[](https://www.linkedin.com/in/Prenom.Nom)
 
 Permis B, voiture
 
