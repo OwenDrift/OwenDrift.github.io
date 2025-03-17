@@ -8,13 +8,13 @@ hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
 
-# Prénom NOM
-Elève ingénieur en [préciser sa spécialité]
+# Owen Le Blanc
+Elève ingénieur en Energie et Numérique
 
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+[Prenom.Nom[at]xxx.com](mailto:owenleblanc6@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
