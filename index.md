@@ -14,7 +14,7 @@ Elève ingénieur en Energie et Numérique
 
 Disponible XX mois à partir de Date
 
-[Prenom.Nom[at]xxx.com](mailto:owenleblanc6@gmail.com)
+[owenleblanc6[at]gmail.com](mailto:owenleblanc6@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
